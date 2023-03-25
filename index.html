@@ -52,15 +52,14 @@
                 </p>
                 <pre>
                     <code>
-function sortByBit(arr) {
-    var regex = /1/g
-    arr.sort((a,b)=&gt
-        { 
-            const aBit = a.toString(2).match(regex)?.length || 0;
-            const bBit = b.toString(2).match(regex)?.length || 0;
-            return aBit == bBit ? a - b : aBit - bBit;
-        });
-    }
+                        function sortByBit(arr) {
+                            var regex = /1/g
+                            arr.sort((a,b)=&gt;
+                                { 
+                                    const aBit = a.toString(2).match(regex)?.length || 0;
+                                    const bBit = b.toString(2).match(regex)?.length || 0;
+                                    return aBit == bBit ? a - b : aBit - bBit;
+                                });
                     </code>
                 </pre>
             </div>
@@ -85,7 +84,7 @@ function sortByBit(arr) {
         <div>
             <h2>Languages:</h2>
             <ul>
-                <li></b>Russian:</b> native</li>
+                <li><b>Russian:</b> native</li>
                 <li><b>English:</b> A2</li>
             </ul>
         </div>

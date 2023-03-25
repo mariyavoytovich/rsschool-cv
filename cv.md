@@ -45,5 +45,11 @@ function sortByBit(arr) {
 * [RS-School CV](https://github.com/mariyavoytovich/rsschool-cv "CV")
 * [Tasks For CodeWars](https://www.codewars.com/users/https://www.codewars.com/users/mariyavoytovich "CodeWars Profile")
 
+# Education
+* **Belarusian National Technical University**
+    * Information systems and technologies
 
+# Languages
+* **Russian:** native
+* **English:** A2
 

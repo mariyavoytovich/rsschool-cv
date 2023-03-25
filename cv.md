@@ -8,7 +8,7 @@
 # About Me:
 I enjoy programming and learning new programming languages and new technologies.
 
-# Skils
+# Skills
 * JavaScript
 * HTML
 * CSS

@@ -19,10 +19,10 @@ I enjoy programming and learning new programming languages and new technologies.
 
 <b>Sorting by bits KATA from CODEWARS</b>: In this kata you're expected to sort an array of 32-bit integers in ascending order of the number of on bits they have.
 E.g Given the array [7, 6, 15, 8]: 
-*7 has 3 on bits (000...0111)
-*6 has 2 on bits (000...0011)
-*15 has 4 on bits (000...1111)
-*8 has 1 on bit (000...1000)
+* 7 has 3 on bits (000...0111)
+* 6 has 2 on bits (000...0011)
+* 15 has 4 on bits (000...1111)
+* 8 has 1 on bit (000...1000)
 
 So the array in sorted order would be [8, 6, 7, 15].
 In cases where two numbers have the same number of bits, compare their real values instead.

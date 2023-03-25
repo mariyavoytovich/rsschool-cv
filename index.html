@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV</title>
+  <title>rsschool-cv</title>
 </head>
 <body>
     <div>
@@ -50,7 +50,7 @@
                         function sortByBit(arr) {
                             var regex = /1/g
                             arr.sort(function(a,b)
-                                { 
+                                {
                                     const aBit = a.toString(2).match(regex)?.length || 0;
                                     const bBit = b.toString(2).match(regex)?.length || 0;
                                     return aBit == bBit ? a - b : aBit - bBit;

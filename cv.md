@@ -18,7 +18,7 @@ I enjoy programming and learning new programming languages and new technologies.
 # Code Example:
 
 <b>Sorting by bits KATA from CODEWARS</b>: In this kata you're expected to sort an array of 32-bit integers in ascending order of the number of on bits they have.
-E.g Given the array [7, 6, 15, 8]: 
+E.g Given the array [7, 6, 15, 8]:
 * 7 has 3 on bits (000...0111)
 * 6 has 2 on bits (000...0011)
 * 15 has 4 on bits (000...1111)

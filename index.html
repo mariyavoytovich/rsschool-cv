@@ -54,7 +54,7 @@
                     <code>
                         function sortByBit(arr) {
                             var regex = /1/g
-                            arr.sort((a,b)=&gt;
+                            arr.sort(function(a,b)
                                 { 
                                     const aBit = a.toString(2).match(regex)?.length || 0;
                                     const bBit = b.toString(2).match(regex)?.length || 0;
